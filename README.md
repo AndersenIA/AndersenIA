@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Anders 👋
 
-<!--
-**AndersenIA/AndersenIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Front End Development Student at Noroff**  
+🇳🇴 Based in Norway
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm a 30-year-old guy from Norway who loves being creative and making things—whether it's art, websites, or something entirely new. I've fallen in love with coding and enjoy combining my passion for design with my growing front-end skills.
+
+---
+
+## 🛠️ Skills
+
+- **Languages & Tools:** HTML, CSS, JavaScript  
+- **Design:** 2D & 3D Art, UI/UX, Figma  
+- **Other:** Creative problem-solving, artistic vision
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced JavaScript
+- Modern front-end frameworks
+- Expanding my 3D art skills
+
+---
+
+## 🎨 Interests
+
+- Working out & Brazilian Jiu-Jitsu
+- Music (both listening & creating)
+- Exploring nature with my two dogs
+
+---
+
+## 🌐 Find Me Online
+
+- 💼 [My Portfolio Website](https://creovastudio.com)
+
+---
+
+Thanks for visiting my profile! ✨
