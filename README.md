@@ -30,7 +30,7 @@ I'm a 30-year-old guy from Norway who loves being creative and making things—w
 ## 🎨 Interests
 
 - Working out & Brazilian Jiu-Jitsu
-- Music (both listening & creating)
+- Music
 - Exploring nature with my two dogs
 
 ---
